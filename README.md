@@ -1,5 +1,5 @@
 ###The Problem
-Everyone in this class is a bear. Bears eat humans. There are very few humans left, so obviously the bears' food supply is running low.
+Everyone in this class is a bear. Bears eat humans. There are very few humans left, so the bears' food supply is running low.
 
 ###Your Mission
 Write a function `eatHumans`, that has the following characteristics:
