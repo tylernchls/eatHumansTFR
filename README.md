@@ -23,14 +23,3 @@ Your function will `return` a **single** String describing who was eaten, in the
 
 - YOUR FINAL WORKING FUNCTION MUST NOT CONTAIN ANY CONSOLE LOGS.
 - YOU MAY ONLY HAVE ONE RETURN STATEMENT IN YOUR FUNCTION.
-
-**Example function call:**
-
-```javascript
-var bearName = 'Luc';
-var humans = ['Phillip' 'Ryan', 'Geronimo'];
-
-var result = eatHumans(bearName, humans);
-console.log(result);
-//"Phillip was eaten by Luc, Ryan was eaten by Luc, and Geronimo was not eaten by Luc"
-```
